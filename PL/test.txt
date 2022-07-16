@@ -1,0 +1,4 @@
+x = "a";
+y = "b";
+z = 2*x+y;
+println 2*z;

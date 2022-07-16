@@ -1,0 +1,7 @@
+x = 0;
+increment1 = 1; // x will be incremented by this amount every time
+Repeat 9
+Begin
+  println x * (x+1) + 1;
+  x = x + increment1;
+End;

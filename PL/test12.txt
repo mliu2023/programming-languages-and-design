@@ -1,0 +1,6 @@
+x = -1;
+Repeat x
+  Begin
+    println 1;
+  End;
+// Cannot repeat negative number of times

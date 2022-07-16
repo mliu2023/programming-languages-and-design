@@ -1,0 +1,12 @@
+// x by (x+1) rectangle
+x = 3; // height
+y = x + 1; // width
+// nested loops
+Repeat x
+Begin
+  Repeat y
+    Begin
+      print "*";
+    End;
+  println "";
+End;

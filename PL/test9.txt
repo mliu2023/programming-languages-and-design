@@ -1,0 +1,6 @@
+x = 0;
+Repeat 40
+  Begin
+    println x*x;
+    x = x+1;
+  End;

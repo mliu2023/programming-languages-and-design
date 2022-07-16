@@ -1,0 +1,6 @@
+x = 0;
+Repeat 5
+  Begin
+    x = x + 1;
+    println x;
+  End;
